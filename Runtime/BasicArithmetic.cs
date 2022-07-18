@@ -55,22 +55,22 @@ namespace CustomPackage
             }
         }
 
-        private float Add(float valueA, float valueB)
+        public static float Add(float valueA, float valueB)
         {
             return valueA + valueB;
         }
 
-        private float Subtract(float valueA, float valueB)
+        public static float Subtract(float valueA, float valueB)
         {
             return valueA - valueB;
         }
 
-        private float Multiply(float valueA, float valueB)
+        public static float Multiply(float valueA, float valueB)
         {
             return valueA * valueB;
         }
 
-        private float Divide(float valueA, float valueB)
+        public static float Divide(float valueA, float valueB)
         {
             if (valueB == 0)
             {
