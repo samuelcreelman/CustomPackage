@@ -16,6 +16,13 @@
 	"testables": [
 		"com.samuelcreelman.custompackage"
 	],
+	"samples": [
+		{
+			"displayName": "Scene Sample",
+			"description": "Contains sample scene",
+			"path": "Samples~"
+		}
+	],
 	"keywords": [
 		"Custom",
 		"Package",
