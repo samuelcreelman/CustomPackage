@@ -3,7 +3,7 @@
 	"version": "1.0.2",
 	"displayName": "Package Example",
 	"description": "This is an example package",
-	"hideInEditor": "false",
+	"hideInEditor": "true",
 	"dependencies": {
 		"com.unity.textmeshpro": "3.0.1",
 		"com.unity.modules.ui": "1.0.0",
